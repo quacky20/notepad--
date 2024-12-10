@@ -1,5 +1,5 @@
 HOW TO RUN:
-1. Download all the files from GitHub.
+1. Download all the files from the download folder in this repository.
 2. Put the main.exe file and icon.ico file in the same directory.
 3. Right click on the main.exe file and go to Send to and select Desktop (create shortcut).
 4. Go to desktop and rename the shortcut.
